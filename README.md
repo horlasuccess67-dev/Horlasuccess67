@@ -1,4 +1,4 @@
-# 👋 Hi, I'm HorlaSuccess67-Dev
+# 👋 Hi, I'm Stack Development
 
 💻 **Full-Stack Developer (Web & Web3)**  
 🤖 **AI-Minded Learner** exploring smart, scalable apps and decentralized technologies.  
@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![HorlaSuccess’s GitHub stats](https://github-readme-stats.vercel.app/api?username=horlasuccess67-dev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horlasuccess67-dev&layout=compact&theme=tokyonight)
-
----
 
 ## 🌍 Connect With Me  
 - 📧 **Email:** horlasuccess.dev@gmail.com  
